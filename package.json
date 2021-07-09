@@ -1,0 +1,25 @@
+{
+  "name": "voltiac-socials-notifier",
+  "version": "1.0.0",
+  "description": "Voltiac Socials Notifier",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltiac-development/Voltiac-Socials-Notifier.git"
+  },
+  "author": "VOLTIAC DEVELOPMENT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voltiac-development/Voltiac-Socials-Notifier/issues"
+  },
+  "homepage": "https://github.com/voltiac-development/Voltiac-Socials-Notifier#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "js-image-generator": "^1.0.3"
+  }
+}
